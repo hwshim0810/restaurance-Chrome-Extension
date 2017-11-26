@@ -1,5 +1,6 @@
 # Chrome extension : Be The Restaurance
 > ### The world could always use more heroes!
+> [Click here to Webstore page](https://chrome.google.com/webstore/detail/be-the-restaurance/nbdnibfhnjopphbfhmpkgifdccoeeofg?hl=ko&authuser=1)
 
 ![Restaurance](/img/page_main_pic.png)
 
